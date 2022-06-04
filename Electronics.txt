@@ -3,3 +3,5 @@ Hello, Welcome to Electronics Store
 TV
 Fridge
 Washing Machine
+
+Thank you!
