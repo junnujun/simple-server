@@ -3,3 +3,6 @@ Hello, Welcome to Electronics Store
 TV
 Fridge
 Washing Machine
+
+Smart Phone
+Laptops
